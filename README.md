@@ -11,6 +11,8 @@ Key features:
 - Basic WCAG
 - Responsive
 
+Of course there are improvements to be made but this was built pretty quickly for demo purposes. :)
+
 ![image](https://github.com/user-attachments/assets/466ae82f-5b9d-4a5a-8d83-f3ae72a396d1)
 ![image](https://github.com/user-attachments/assets/944e1436-c88c-4775-82a9-2d7f93d9244a)
 
