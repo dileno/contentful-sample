@@ -7,6 +7,8 @@ Key features:
 - TypeScript used, including automatically generated types with cf-content-types-generator
 - Tailwind CSS used
 
+![image](https://github.com/user-attachments/assets/466ae82f-5b9d-4a5a-8d83-f3ae72a396d1)
+
 ## Required Environment Variables
 
 This project requires the following environment variables to be set:
