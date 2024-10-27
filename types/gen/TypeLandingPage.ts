@@ -7,4 +7,4 @@ export interface TypeLandingPageFields extends BasePage {
 }
 
 export type TypeLandingPage = Entry<TypeLandingPageFields>;
-export type HomePage = TypeLandingPageFields;
+export type LandingPage = TypeLandingPageFields;
