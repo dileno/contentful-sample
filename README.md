@@ -1,5 +1,4 @@
 A [Next.js](https://nextjs.org/) sample project that integrates with [Contentful](https://www.contentful.com/) to display dynamic content.
-For Tre Sverige.
 
 Used the [Contentful Nextjs sample website](https://github.com/contentful/nextjs-contentful-guide) as a base and dare I say it, improved it.
 
