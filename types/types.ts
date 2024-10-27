@@ -46,7 +46,7 @@ export const colorSchemes = {
   },
   darkGreen: {
     bg: "#6f9c3d",
-    text: "#ffffff",
+    text: "#212121",
     hover: "#608936",
   },
 } as const;
